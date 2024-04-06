@@ -1,3 +1,4 @@
+
 class Solution {
     public String validIPAddress(String ip) {
         if (ip == null || ip.length() == 0) {
